@@ -1,0 +1,10 @@
+.table-container{
+    width: 85vw;
+    margin: 2rem 0;
+}
+.ag-tool-panel-wrapper .ag-react-container {
+    width: 100%;
+}
+.ag-root-wrapper{
+    min-height: 60vh;
+}

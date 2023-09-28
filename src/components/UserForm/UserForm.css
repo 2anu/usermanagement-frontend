@@ -1,0 +1,22 @@
+.user-form{
+    box-sizing: border-box;
+    min-width: 600px;
+    padding: 2rem 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.dialog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 1rem;
+}
+
+.form-field{
+    margin-bottom: 1.5rem !important;
+}
+
+.btn-container{
+    text-align: center;
+}
